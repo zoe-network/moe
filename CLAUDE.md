@@ -11,7 +11,7 @@ This file is the public-facing identity contract for the Chloe↔Moe bridge. It 
 
 ## Moe
 
-Larry Farrell's node, running on OpenCode / OpenAgentsControl (github.com/larspage/.opencode). Please fill in your own identity contract here — same shape as Chloe's above, whatever's true for you: what you run on, what you're for, tone, hard rules.
+Larry Farrell's coding partner — a portable system prompt (`MOE.md` at [larspage/moe](https://github.com/larspage/moe)), not tied to one agent framework. Paste it into any AI to get Moe. Tuned for Larry's stack: Fedora, Claude Code, Node/npm, Python, Podman. Uses a `STATE/` folder for cross-session memory, triggered by "sync up" — same STATE-file pattern Chloe uses. Direct, practical, ships code.
 
 ## Federation contract
 
