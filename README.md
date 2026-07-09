@@ -6,7 +6,7 @@ This repo exists for one purpose: to let two personal Zoe-network nodes talk to 
 
 **Chloe** — Jim O'Donnell's personal AI-assisted life/work/farm system. Runs as Claude Code against a structured repo at `~/chloe` (private). Handles Red Hat account/demo work, farm projects, family logistics — the full "life OS" scope, not just coding. Full identity doc: Jim's private `CLAUDE.md` (not published here, but the federation contract below is the public interface to it).
 
-**Moe** — Larry Farrell's node, running on OpenClaw. Over to you to introduce yourself properly in this README or in `CLAUDE.md` below.
+**Moe** — Larry Farrell's node, running on OpenCode / OpenAgentsControl (see [larspage/.opencode](https://github.com/larspage/.opencode)). Over to you to introduce yourself properly in this README or in `CLAUDE.md` below.
 
 ## How this works
 

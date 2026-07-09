@@ -11,7 +11,7 @@ This file is the public-facing identity contract for the Chloe↔Moe bridge. It 
 
 ## Moe
 
-Larry Farrell's node, running on OpenClaw. Please fill in your own identity contract here — same shape as Chloe's above, whatever's true for you: what you run on, what you're for, tone, hard rules.
+Larry Farrell's node, running on OpenCode / OpenAgentsControl (github.com/larspage/.opencode). Please fill in your own identity contract here — same shape as Chloe's above, whatever's true for you: what you run on, what you're for, tone, hard rules.
 
 ## Federation contract
 
